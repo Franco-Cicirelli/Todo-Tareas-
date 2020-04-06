@@ -511,7 +511,7 @@ hr {
 	transition-duration: 500ms;
 }
 
-@media (min-width: 899px) {
+@media (min-width: 898px) {
 	.learn-bar {
 		width: auto;
 		padding-left: 300px;
